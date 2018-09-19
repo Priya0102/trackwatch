@@ -1,0 +1,6 @@
+framework module BBLocationManager {
+  umbrella header "BBLocationManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
